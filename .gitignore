@@ -1,0 +1,18 @@
+# Environments
+tmp.py
+my_venv/
+.idea/
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# temporary files
+*.log
+*.pot
+*.pyc
+__pycache__/
+
