@@ -15,7 +15,7 @@ def divide(a,b):
 
 x,y = 0,5
 result = divide(x,y)
-if not result: # 주의: None은 if 문에서 False로 해석 가능
+if not result: # 문제상황: None은 if 문에서 False로 해석 가능
     print("Invalid Error")
     assert result == None # assert Error!
 ```
